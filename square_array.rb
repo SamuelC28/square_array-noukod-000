@@ -6,4 +6,6 @@ def square_array(numbers)
     num = num**2
   return new_numbers << num
   end
+
+  numbers.collect {|num| new_numbers << num**2}
 end
