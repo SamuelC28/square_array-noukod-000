@@ -7,5 +7,5 @@ def square_array(numbers)
   puts new_numbers << num
   end
 
-  numbers.collect {|num| new_numbers << num**2}
+  
 end
