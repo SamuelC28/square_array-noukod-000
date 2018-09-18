@@ -7,5 +7,5 @@ def square_array(numbers)
   puts new_numbers << num
   end
 
-  
+
 end
